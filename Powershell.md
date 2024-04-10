@@ -1,0 +1,5 @@
+PowerShell és una eina de gestió de configuració i automatització de tasques basada en la línia de comandes i un llenguatge d'scripting, desenvolupada per Microsoft. És inclosa en els sistemes operatius Windows, permetent als usuaris i administradors de sistemes interactuar amb el sistema operatiu i les seves aplicacions de manera més eficient.
+
+A diferència de l'antic intèrpret de comandes de Windows (cmd.exe), PowerShell suporta l'execució de comandaments complexes i scripts que poden manipular la configuració del sistema i automatitzar tasques repetitives. PowerShell està basat en .NET Framework, permetent als usuaris accedir a les funcionalitats de .NET des de la línia de comandes.
+
+Una de les principals característiques de PowerShell és la seva capacitat per treballar amb "objectes". Mentre que altres shells tradicionals treballen amb text, PowerShell manipula objectes basats en .NET. Això significa que els usuaris poden realitzar operacions complexes de dades i gestió de sistemes de manera més intuïtiva i amb menys codi.
